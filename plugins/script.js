@@ -127,15 +127,15 @@ const quotes = [
 	"A melody of joy, where we both belong.",
 	"Your laughter, a breeze through fields of grace,",
 	"Your smile, a dawn, the sun upon my face.",
-    "Baby, you're my love, my forevermore",
-    "Holding your hands standing near a shore.",
-    "Getting angry at me for silly little things.",
-    "But that makes me love you more...",
-    "I'll hold tight in moonless night",
-    "while your lips shine bright.",
-    "And I'll be on my way",
-    "laying you on my arm",
-    "Lips entwined, till morning's gentle charm."
+	"Baby, you're my love, my forevermore",
+	"Holding your hands standing near a shore.",
+	"Getting angry at me for silly little things.",
+	"But that makes me love you more...",
+	"I'll hold tight in moonless night",
+	"while your lips shine bright.",
+	"And I'll be on my way",
+	"laying you on my arm",
+	"Lips entwined, till morning's gentle charm."
 ];
 
 let currentQuoteIndex = 0;
