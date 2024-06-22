@@ -119,6 +119,10 @@ function toggleMusic() {
 
 
 const quotes = [
+	"This is for you bbg",
+	"Wrote it for you",
+	"Just with a little help lol",
+	":)",
 	"With you, my love, I've found my sweetest song,",
 	"A melody of joy, where we both belong.",
 	"Your laughter, a breeze through fields of grace,",
